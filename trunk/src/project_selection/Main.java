@@ -3,17 +3,14 @@
  * and open the template in the editor.
  */
 package project_selection;
-
 /**
  *
  * @author thymemine
  */
 public class Main {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //TOPSIS topsis = new TOPSIS();
+        //topsis.TOPSIS();
+        
     }
 }
